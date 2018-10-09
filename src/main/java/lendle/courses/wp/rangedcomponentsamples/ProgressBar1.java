@@ -31,7 +31,7 @@ public class ProgressBar1 {
         //這幾個屬性
         progressBar.setMinimum(0);
         progressBar.setMaximum(100);
-        progressBar.setValue(80);
+        progressBar.setValue(99);
         progressBar.setStringPainted(true);
         progressBar.setIndeterminate(true);
         ////////////////////////////////////////////////////////
